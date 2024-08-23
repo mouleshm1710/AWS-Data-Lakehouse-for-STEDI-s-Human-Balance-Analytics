@@ -52,3 +52,15 @@ Verified data accuracy and completeness using Athena queries and screenshots.
 
 ## Screenshots
 ### Below are the screenshots capturing the data results for various Glue tables:
+
+![alt text](Screenshots/customer_landing.png)
+
+![alt text](Screenshots/customer_landing.png)
+
+![alt text](Screenshots/customer_landing.png)
+
+![alt text](Screenshots/customer_landing.png)
+
+![alt text](Screenshots/customer_landing.png)
+
+![alt text](Screenshots/customer_landing.png)
