@@ -53,14 +53,29 @@ Verified data accuracy and completeness using Athena queries and screenshots.
 ## Screenshots
 ### Below are the screenshots capturing the data results for various Glue tables:
 
-![alt text](Screenshots/customer_landing.png)
+### 1) customer_landing_results:
 
-![alt text](Screenshots/customer_landing.png)
+![alt text](screenshots/customer_landing_results.png)
 
-![alt text](Screenshots/customer_landing.png)
+### 2) accelerometer_landing_results:
+![alt text](screenshots/accelerometer_landing_results.png)
 
-![alt text](Screenshots/customer_landing.png)
+### 3) step_trainer_landing_results:
+![alt text](screenshots/step_trainer_landing_results.png)
 
-![alt text](Screenshots/customer_landing.png)
+### 4) customer_trusted_results:
+![alt text](screenshots/customer_trusted_results.png)
 
-![alt text](Screenshots/customer_landing.png)
+### 5) accelerometer_trusted_results:
+![alt text](screenshots/accelerometer_trusted_results.png)
+
+### 6) step_trainer_trusted_results:
+![alt text](screenshots/step_trainer_trusted_results.png)
+
+### 7) customer_curated_results:
+![alt text](screenshots/customer_curated_results.png)
+
+### 8) machine_learning_curated_results:
+![alt text](screenshots/machine_learning_curated_results.png)
+
+
