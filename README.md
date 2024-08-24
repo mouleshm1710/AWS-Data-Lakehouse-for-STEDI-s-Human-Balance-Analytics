@@ -66,16 +66,19 @@ Verified data accuracy and completeness using Athena queries and screenshots.
 ### 4) customer_trusted_results:
 ![alt text](screenshots/customer_trusted_results.png)
 
-### 5) accelerometer_trusted_results:
+### 5) customer_trusted_results_sharewithresearch_null:
+![alt text](screenshots/customer_trusted_results_sharewithresearch_null.png)
+
+### 6) accelerometer_trusted_results:
 ![alt text](screenshots/accelerometer_trusted_results.png)
 
-### 6) step_trainer_trusted_results:
+### 7) step_trainer_trusted_results:
 ![alt text](screenshots/step_trainer_trusted_results.png)
 
-### 7) customer_curated_results:
+### 8) customer_curated_results:
 ![alt text](screenshots/customer_curated_results.png)
 
-### 8) machine_learning_curated_results:
+### 9) machine_learning_curated_results:
 ![alt text](screenshots/machine_learning_curated_results.png)
 
 
